@@ -3,6 +3,16 @@
 A modern, full-featured admin dashboard for managing hotel/cabin bookings. Built with **React**, this app provides tools for authentication, cabin management, booking tracking, user activity, and detailed analytics.
 
 ---
+## 🧪 Demo Access
+You can explore and interact with the app using a demo account:
+
+- **Email:** `demo@email.com`  
+- **Password:** `12345678`  
+- **Live Site:** [Click here to try the app](https://the-wild-oasis-dashboard-five.vercel.app/dashboard)
+
+Feel free to log in, view bookings, manage cabins, and explore all features. This account is for demo purposes only — no real data is stored.
+
+---
 
 ## 🚀 Features
 
